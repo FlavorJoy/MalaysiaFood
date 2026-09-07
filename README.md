@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-05 13:16:54 CST
+📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-07 08:20:30 CST
 
 ## 📑 Table of Contents
 
@@ -104,7 +104,7 @@
 | [Shüü Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Cafe | RM 20-40 | ★★★★☆ 4.1 |  |
 | [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 1-40 | ★★★★☆ 4.1 |  |
 | [HAVOC Hotpot](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Buffet | RM 40-60 | ★★★★☆ 4.0 |  |
-| [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 1-20 | ★★★★☆ 3.9 |  |
+| [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Restaurant | RM 1-20 | ★★★★☆ 3.9 | 17:30–02:00 |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Mandarin restaurant | RM 40-60 | ★★★★☆ 3.9 |  |
 | [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 20-100 | ★★★★☆ 3.9 |  |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Asian | RM 1-20 | ★★★★☆ 3.9 |  |
@@ -135,7 +135,7 @@
 | [Shüü Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [HAVOC Hotpot](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
-| [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Kuey Teow |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Mount Austin |
 | [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Hunan cuisine |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
@@ -163,7 +163,7 @@
 
 | Name | Cuisine | Price | Rating | Hours |
 | :--- | :--- | :---: | :---: | :--- |
-| [McQuek's Satay Celup](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Satay restaurant | RM 20-40 | ★★★★☆ 4.5 |  |
+| [McQuek's Satay Celup](https://maps.app.goo.gl/vM3s47EguZwixKCQ8) | Satay restaurant | RM 20-40 | ★★★★☆ 4.5 | 16:00–23:00, Wednesday, rest |
 | [Kubu Yong Tau Foo Kopitiam](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Chinese | RM 1-20 | ★★★★☆ 4.5 |  |
 | [一日山品 Something Bakery @ Bukit Cina](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Cafe | RM 20-40 | ★★★★☆ 4.4 |  |
 | [Restoran Thai Xiang](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Thai | RM 1-20 | ★★★★☆ 4.3 |  |
@@ -171,14 +171,14 @@
 | [Oriental Cafe](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Chinese Noodles | RM 1-20 | ★★★★☆ 4.1 |  |
 | [Restoran Kok Keong](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Chinese | RM 1-20 | ★★★★☆ 4.0 |  |
 | [Nancy's Kitchen](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Nyonya restaurant | RM 20-40 | ★★★★☆ 3.9 |  |
-| [Jonker 88](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Dessert | RM 1-20 | ★★★★☆ 3.8 |  |
+| [Jonker 88](https://maps.app.goo.gl/35g3HyHiC8BB2uN36) | Dessert | RM 1-20 | ★★★★☆ 3.8 | 09:30–18:00 |
 
 <details id="detail-melaka">
 <summary>📖 Melaka Area – Click to expand detailed information (Recommended dishes / Notes)</summary>
 
 | Name | Notes / Recommended Dishes |
 | :--- | :--- |
-| [McQuek's Satay Celup](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [McQuek's Satay Celup](https://maps.app.goo.gl/vM3s47EguZwixKCQ8) | Satay |
 | [Kubu Yong Tau Foo Kopitiam](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Yong Tau Foo |
 | [一日山品 Something Bakery @ Bukit Cina](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Bukit Cina |
 | [Restoran Thai Xiang](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | — |
@@ -186,7 +186,7 @@
 | [Oriental Cafe](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | — |
 | [Restoran Kok Keong](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | — |
 | [Nancy's Kitchen](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | — |
-| [Jonker 88](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Jonker Street |
+| [Jonker 88](https://maps.app.goo.gl/35g3HyHiC8BB2uN36) | Jonker Street Chendol |
 
 </details>
 
