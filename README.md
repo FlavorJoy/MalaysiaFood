@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-07 08:20:30 CST
+📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-09 13:41:08 CST
 
 ## 📑 Table of Contents
 
@@ -92,7 +92,7 @@
 | [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Cafe | RM 20-40 | ★★★★★ 4.8 |  |
 | [大吉利自助火锅烤肉](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Buffet | RM 40-60 | ★★★★★ 4.7 |  |
 | [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Hot Pot | RM 40-60 | ★★★★★ 4.6 |  |
-| [Meet House Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Cafe | RM 20-40 | ★★★★☆ 4.5 |  |
+| [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cafe | RM 20-40 | ★★★★☆ 4.5 | Mon-Thu 11:00–22:00<br> Fri-Sun 10:30–22:00 |
 | [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Chinese | RM 1-20 | ★★★★☆ 4.5 |  |
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | BBQ | RM 40-60 | ★★★★☆ 4.4 | 10:00-22:00 |
 | [阿华牛肉面 Ah Hua Beef noodles](https://maps.app.goo.gl/WbV8RYg739TsiKUa6) | Beef noodles | RM 20-40 | ★★★★☆ 4.4 | 08:00–21:00, Wednesday, rest |
@@ -100,12 +100,12 @@
 | [Zen+ Korean BBQ(JOHOR BAHRU)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Korean BBQ | RM 40-60 | ★★★★☆ 4.4 |  |
 | [Queen Bean House 皇后红豆冰](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Dessert shop |  | ★★★★☆ 4.3 |  |
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Mamak | RM 1-20 | ★★★★☆ 4.2 | 24H operation |
-| [Dajia Yuen Restaurant](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 20-40 | ★★★★☆ 4.1 |  |
+| [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | Restaurant | RM 20-40 | ★★★★☆ 4.1 | 11:00–23:00 |
 | [Shüü Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Cafe | RM 20-40 | ★★★★☆ 4.1 |  |
 | [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 1-40 | ★★★★☆ 4.1 |  |
 | [HAVOC Hotpot](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Buffet | RM 40-60 | ★★★★☆ 4.0 |  |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Restaurant | RM 1-20 | ★★★★☆ 3.9 | 17:30–02:00 |
-| [BBQ Box (Mount Austin)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Mandarin restaurant | RM 40-60 | ★★★★☆ 3.9 |  |
+| [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Mandarin restaurant | RM 40-60 | ★★★★☆ 3.9 | 12:00–02:00 |
 | [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 20-100 | ★★★★☆ 3.9 |  |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Asian | RM 1-20 | ★★★★☆ 3.9 |  |
 | [Heng Park Garden Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Asian | RM 1-20 | ★★★★☆ 3.8 |  |
@@ -123,7 +123,7 @@
 | [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Eco Botanic |
 | [大吉利自助火锅烤肉](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Bukit Indah |
-| [Meet House Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cake, Cream pasta |
 | [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | Kimchi soup |
 | [阿华牛肉面 Ah Hua Beef noodles](https://maps.app.goo.gl/WbV8RYg739TsiKUa6) | Beef noodles, 砂锅麻油鸡 |
@@ -131,12 +131,12 @@
 | [Zen+ Korean BBQ(JOHOR BAHRU)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Queen Bean House 皇后红豆冰](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Roti Kosong, Roti Telur,Megi Goreng |
-| [Dajia Yuen Restaurant](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | tofu, Ba Ku Teh |
 | [Shüü Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [HAVOC Hotpot](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Kuey Teow |
-| [BBQ Box (Mount Austin)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Mount Austin |
+| [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Pot Stickers, Spicy Chicken Wings |
 | [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Hunan cuisine |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Heng Park Garden Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
