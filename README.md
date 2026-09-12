@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-11 14:02:05 CST
+📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-12 14:19:19 CST
 
 ## 📑 Table of Contents
 
@@ -85,7 +85,7 @@
 
 | Name | Cuisine | Price | Rating | Hours |
 | :--- | :--- | :---: | :---: | :--- |
-| [arest Cafe Bukit Indah](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 20-40 | ★★★★★ 4.9 |  |
+| [arest Cafe Bukit Indah](https://maps.app.goo.gl/KJysrqNWcfHgfbWs8) | Restaurant | RM 20-40 | ★★★★★ 4.9 | Black truffle fries Black truffle pizza |
 | [Arashi Shabu-Shabu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Shabu Shabu | RM 40-120 | ★★★★★ 4.9 |  |
 | [Restoran Arab Zaatar](https://maps.app.goo.gl/H4Txq32iZoJJZ8FTA) | Arabic dishes | RM 30-80 | ★★★★★ 4.8 | 10:00–01:00 |
 | [Der' Cabin Bistro Gelang Patah](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 20-40 | ★★★★★ 4.8 |  |
@@ -116,7 +116,7 @@
 
 | Name | Notes / Recommended Dishes |
 | :--- | :--- |
-| [arest Cafe Bukit Indah](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Bukit Indah |
+| [arest Cafe Bukit Indah](https://maps.app.goo.gl/KJysrqNWcfHgfbWs8) | Bukit Indah |
 | [Arashi Shabu-Shabu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Restoran Arab Zaatar](https://maps.app.goo.gl/H4Txq32iZoJJZ8FTA) | Mix Grill Family Size |
 | [Der' Cabin Bistro Gelang Patah](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Gelang Patah |
