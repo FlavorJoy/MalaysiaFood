@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-09 13:41:08 CST
+📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-11 14:02:05 CST
 
 ## 📑 Table of Contents
 
@@ -101,14 +101,14 @@
 | [Queen Bean House 皇后红豆冰](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Dessert shop |  | ★★★★☆ 4.3 |  |
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Mamak | RM 1-20 | ★★★★☆ 4.2 | 24H operation |
 | [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | Restaurant | RM 20-40 | ★★★★☆ 4.1 | 11:00–23:00 |
-| [Shüü Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Cafe | RM 20-40 | ★★★★☆ 4.1 |  |
+| [Shüü Cafe](https://maps.app.goo.gl/RFVsbjnjFCVBMDu47) | Cafe | RM 20-40 | ★★★★☆ 4.1 | Thu-Sun 10:00–18:00 |
 | [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 1-40 | ★★★★☆ 4.1 |  |
 | [HAVOC Hotpot](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Buffet | RM 40-60 | ★★★★☆ 4.0 |  |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Restaurant | RM 1-20 | ★★★★☆ 3.9 | 17:30–02:00 |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Mandarin restaurant | RM 40-60 | ★★★★☆ 3.9 | 12:00–02:00 |
 | [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 20-100 | ★★★★☆ 3.9 |  |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Asian | RM 1-20 | ★★★★☆ 3.9 |  |
-| [Heng Park Garden Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Asian | RM 1-20 | ★★★★☆ 3.8 |  |
+| [Heng Park Garden Cafe](https://maps.app.goo.gl/hhuZxM8L8kj4FCZ88) | Asian | RM 1-20 | ★★★★☆ 3.8 | 07:00–00:00 |
 | [7773 Kopitiam](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Coffee shop | RM 1-20 | ★★★☆☆ 2.9 |  |
 
 <details id="detail-johor">
@@ -132,14 +132,14 @@
 | [Queen Bean House 皇后红豆冰](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Roti Kosong, Roti Telur,Megi Goreng |
 | [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | tofu, Ba Ku Teh |
-| [Shüü Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [Shüü Cafe](https://maps.app.goo.gl/RFVsbjnjFCVBMDu47) | Strawberry Matcha |
 | [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [HAVOC Hotpot](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Kuey Teow |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Pot Stickers, Spicy Chicken Wings |
 | [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Hunan cuisine |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
-| [Heng Park Garden Cafe](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [Heng Park Garden Cafe](https://maps.app.goo.gl/hhuZxM8L8kj4FCZ88) | — |
 | [7773 Kopitiam](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 
 </details>
