@@ -3,10 +3,10 @@ name,cuisine,price,rating,area,url,hours,notes
 RunningMan Korea Restaurant,BBQ,RM 40-60,4.4,Johor,https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic,10:00-22:00,Kimchi soup
 Restoran Arab Zaatar,Arabic dishes,RM 30-80,4.8,Johor,https://maps.app.goo.gl/H4Txq32iZoJJZ8FTA,10:00–01:00,Mix Grill Family Size
 Restoran Al-Safa Iskandar Puteri,Mamak,RM 1-20,4.2,Johor,https://maps.app.goo.gl/fbhHDxUXvKXWk2m58,24H operation,"Roti Kosong, Roti Telur,Megi Goreng"
-阿华牛肉面 Ah Hua Beef noodles,Beef noodles,RM 20-40,4.4,Johor,https://maps.app.goo.gl/WbV8RYg739TsiKUa6,"08:00–21:00, Wednesday, rest","Beef noodles, 砂锅麻油鸡"
+阿华牛肉面 Ah Hua Beef noodles,Beef noodles,RM 20-40,4.4,Johor,https://maps.app.goo.gl/WbV8RYg739TsiKUa6,"08:00–21:00, Wednesday rest","Beef noodles, 砂锅麻油鸡"
 Jonker 88,Dessert,RM 1-20,3.8,Melaka,https://maps.app.goo.gl/35g3HyHiC8BB2uN36,09:30–18:00,Jonker Street Chendol
 Da Ma Kuey Teow Sutera,Restaurant,RM 1-20,3.9,Johor,https://maps.app.goo.gl/xmnJtSWWWocBa5LU8,17:30–02:00,Kuey Teow
-McQuek's Satay Celup,Satay restaurant,RM 20-40,4.5,Melaka,https://maps.app.goo.gl/vM3s47EguZwixKCQ8,"16:00–23:00, Wednesday, rest",Satay
+McQuek's Satay Celup,Satay restaurant,RM 20-40,4.5,Melaka,https://maps.app.goo.gl/vM3s47EguZwixKCQ8,"16:00–23:00, Wednesday rest",Satay
 BBQ Box (Mount Austin),Mandarin restaurant,RM 40-60,3.9,Johor,https://maps.app.goo.gl/5pe21psuXsX1X3b4A,12:00–02:00,"Pot Stickers, Spicy Chicken Wings"
 Dajia Yuen Restaurant,Restaurant,RM 20-40,4.1,Johor,https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7,11:00–23:00,"tofu, Ba Ku Teh"
 Meet House Cafe,Cafe,RM 20-40,4.5,Johor,https://maps.app.goo.gl/gWGn23FjYYMkiktV9,Mon-Thu 11:00–22:00; Fri-Sun 10:30–22:00,"Cake, Cream pasta"
@@ -14,8 +14,8 @@ Shüü Cafe,Cafe,RM 20-40,4.1,Johor,https://maps.app.goo.gl/RFVsbjnjFCVBMDu47,Th
 Heng Park Garden Cafe,Asian,RM 1-20,3.8,Johor,https://maps.app.goo.gl/hhuZxM8L8kj4FCZ88,07:00–00:00,
 arest Cafe Bukit Indah,Restaurant,RM 20-40,4.9,Johor,https://maps.app.goo.gl/KJysrqNWcfHgfbWs8,11:00-23:00,Black truffle fries Black truffle pizza
 Der' Cabin Bistro Gelang Patah,Restaurant,RM 20-40,4.8,Johor,https://maps.app.goo.gl/cXrNKvEJfj2vkJwE9,17:00–23:30,Grilled Chiken Chop
-Queen Bean House 皇后红豆冰,Dessert shop,RM 6-10,4.3,Johor,https://maps.app.goo.gl/kZBQKXDb3LHKDzYf9,"09:00–18:30, Tuesday rest",
-火岩山擂茶 Volcano Thunder Tea,Restaurant,RM 10-20,4.4,Johor,https://maps.app.goo.gl/eKFCvkJushcPfcF79,,
+Queen Bean House 皇后红豆冰,Dessert shop,RM 6-10,4.3,Johor,https://maps.app.goo.gl/kZBQKXDb3LHKDzYf9,"09:00–18:30, Tuesday rest",红豆冰
+火岩山擂茶 Volcano Thunder Tea,Restaurant,RM 10-20,4.4,Johor,https://maps.app.goo.gl/T28BQ9q8Dao15WsTA,"08:40–14:00, Wednesday rest",Thunder Tea
 Arashi Shabu-Shabu,Shabu Shabu,RM 40-120,4.9,Johor,https://maps.app.goo.gl/eKFCvkJushcPfcF79,,
 Hot Pot Shabu Shabu Bukit Indah,Hot Pot,RM 40-60,4.6,Johor,https://maps.app.goo.gl/eKFCvkJushcPfcF79,,Bukit Indah
 HAVOC Hotpot,Buffet,RM 40-60,4.0,Johor,https://maps.app.goo.gl/eKFCvkJushcPfcF79,,
