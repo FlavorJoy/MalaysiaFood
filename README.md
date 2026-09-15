@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-14 13:35:27 CST
+📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-15 11:37:23 CST
 
 ## 📑 Table of Contents
 
@@ -94,8 +94,8 @@
 | [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cafe | RM 20-40 | ★★★★☆ 4.5 | Mon-Thu 11:00–22:00<br> Fri-Sun 10:30–22:00 |
 | [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Chinese | RM 1-20 | ★★★★☆ 4.5 |  |
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | BBQ | RM 40-60 | ★★★★☆ 4.4 | 10:00-22:00 |
-| [阿华牛肉面 Ah Hua Beef noodles](https://maps.app.goo.gl/WbV8RYg739TsiKUa6) | Beef noodles | RM 20-40 | ★★★★☆ 4.4 | 08:00–21:00, Wednesday, rest |
-| [火岩山擂茶 Volcano Thunder Tea](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 10-20 | ★★★★☆ 4.4 |  |
+| [阿华牛肉面 Ah Hua Beef noodles](https://maps.app.goo.gl/WbV8RYg739TsiKUa6) | Beef noodles | RM 20-40 | ★★★★☆ 4.4 | 08:00–21:00, Wednesday rest |
+| [火岩山擂茶 Volcano Thunder Tea](https://maps.app.goo.gl/T28BQ9q8Dao15WsTA) | Restaurant | RM 10-20 | ★★★★☆ 4.4 | 08:40–14:00, Wednesday rest |
 | [Zen+ Korean BBQ(JOHOR BAHRU)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Korean BBQ | RM 40-60 | ★★★★☆ 4.4 |  |
 | [Queen Bean House 皇后红豆冰](https://maps.app.goo.gl/kZBQKXDb3LHKDzYf9) | Dessert shop | RM 6-10 | ★★★★☆ 4.3 | 09:00–18:30, Tuesday rest |
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Mamak | RM 1-20 | ★★★★☆ 4.2 | 24H operation |
@@ -126,9 +126,9 @@
 | [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | Kimchi soup |
 | [阿华牛肉面 Ah Hua Beef noodles](https://maps.app.goo.gl/WbV8RYg739TsiKUa6) | Beef noodles, 砂锅麻油鸡 |
-| [火岩山擂茶 Volcano Thunder Tea](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [火岩山擂茶 Volcano Thunder Tea](https://maps.app.goo.gl/T28BQ9q8Dao15WsTA) | Thunder Tea |
 | [Zen+ Korean BBQ(JOHOR BAHRU)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
-| [Queen Bean House 皇后红豆冰](https://maps.app.goo.gl/kZBQKXDb3LHKDzYf9) | — |
+| [Queen Bean House 皇后红豆冰](https://maps.app.goo.gl/kZBQKXDb3LHKDzYf9) | 红豆冰 |
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Roti Kosong, Roti Telur,Megi Goreng |
 | [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | tofu, Ba Ku Teh |
 | [Shüü Cafe](https://maps.app.goo.gl/RFVsbjnjFCVBMDu47) | Strawberry Matcha |
@@ -162,7 +162,7 @@
 
 | Name | Cuisine | Price | Rating | Hours |
 | :--- | :--- | :---: | :---: | :--- |
-| [McQuek's Satay Celup](https://maps.app.goo.gl/vM3s47EguZwixKCQ8) | Satay restaurant | RM 20-40 | ★★★★☆ 4.5 | 16:00–23:00, Wednesday, rest |
+| [McQuek's Satay Celup](https://maps.app.goo.gl/vM3s47EguZwixKCQ8) | Satay restaurant | RM 20-40 | ★★★★☆ 4.5 | 16:00–23:00, Wednesday rest |
 | [Kubu Yong Tau Foo Kopitiam](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Chinese | RM 1-20 | ★★★★☆ 4.5 |  |
 | [一日山品 Something Bakery @ Bukit Cina](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Cafe | RM 20-40 | ★★★★☆ 4.4 |  |
 | [Restoran Thai Xiang](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Thai | RM 1-20 | ★★★★☆ 4.3 |  |
