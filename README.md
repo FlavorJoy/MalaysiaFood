@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-15 11:37:23 CST
+📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-18 14:53:55 CST
 
 ## 📑 Table of Contents
 
@@ -85,12 +85,12 @@
 | Name | Cuisine | Price | Rating | Hours |
 | :--- | :--- | :---: | :---: | :--- |
 | [arest Cafe Bukit Indah](https://maps.app.goo.gl/KJysrqNWcfHgfbWs8) | Restaurant | RM 20-40 | ★★★★★ 4.9 | 11:00-23:00 |
-| [Arashi Shabu-Shabu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Shabu Shabu | RM 40-120 | ★★★★★ 4.9 |  |
+| [Arashi Shabu-Shabu](https://maps.app.goo.gl/cRxrppF44oUgLg5v9?g_st=ic) | Shabu Shabu | RM 40-120 | ★★★★★ 4.9 | 11:00–22:00 |
 | [Restoran Arab Zaatar](https://maps.app.goo.gl/H4Txq32iZoJJZ8FTA) | Arabic dishes | RM 30-80 | ★★★★★ 4.8 | 10:00–01:00 |
 | [Der' Cabin Bistro Gelang Patah](https://maps.app.goo.gl/cXrNKvEJfj2vkJwE9) | Restaurant | RM 20-40 | ★★★★★ 4.8 | 17:00–23:30 |
 | [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Cafe | RM 20-40 | ★★★★★ 4.8 |  |
 | [大吉利自助火锅烤肉](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Buffet | RM 40-60 | ★★★★★ 4.7 |  |
-| [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Hot Pot | RM 40-60 | ★★★★★ 4.6 |  |
+| [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/oCHN7N2ADtebVTKM9) | Hot Pot | RM 40-60 | ★★★★★ 4.6 | 13:00–22:30 |
 | [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cafe | RM 20-40 | ★★★★☆ 4.5 | Mon-Thu 11:00–22:00<br> Fri-Sun 10:30–22:00 |
 | [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Chinese | RM 1-20 | ★★★★☆ 4.5 |  |
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | BBQ | RM 40-60 | ★★★★☆ 4.4 | 10:00-22:00 |
@@ -116,12 +116,12 @@
 | Name | Notes / Recommended Dishes |
 | :--- | :--- |
 | [arest Cafe Bukit Indah](https://maps.app.goo.gl/KJysrqNWcfHgfbWs8) | Black truffle fries Black truffle pizza |
-| [Arashi Shabu-Shabu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [Arashi Shabu-Shabu](https://maps.app.goo.gl/cRxrppF44oUgLg5v9?g_st=ic) | BBQ |
 | [Restoran Arab Zaatar](https://maps.app.goo.gl/H4Txq32iZoJJZ8FTA) | Mix Grill Family Size |
 | [Der' Cabin Bistro Gelang Patah](https://maps.app.goo.gl/cXrNKvEJfj2vkJwE9) | Grilled Chiken Chop |
 | [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Eco Botanic |
 | [大吉利自助火锅烤肉](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
-| [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Bukit Indah |
+| [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/oCHN7N2ADtebVTKM9) | Bukit Indah |
 | [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cake, Cream pasta |
 | [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | Kimchi soup |
