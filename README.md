@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-18 14:53:55 CST
+📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-21 12:36:29 CST
 
 ## 📑 Table of Contents
 
@@ -89,7 +89,7 @@
 | [Restoran Arab Zaatar](https://maps.app.goo.gl/H4Txq32iZoJJZ8FTA) | Arabic dishes | RM 30-80 | ★★★★★ 4.8 | 10:00–01:00 |
 | [Der' Cabin Bistro Gelang Patah](https://maps.app.goo.gl/cXrNKvEJfj2vkJwE9) | Restaurant | RM 20-40 | ★★★★★ 4.8 | 17:00–23:30 |
 | [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Cafe | RM 20-40 | ★★★★★ 4.8 |  |
-| [大吉利自助火锅烤肉](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Buffet | RM 40-60 | ★★★★★ 4.7 |  |
+| [大吉利自助火锅烤肉](https://maps.app.goo.gl/ocahL5rgopWMG9bt9) | Buffet | RM 40-60 | ★★★★★ 4.7 | 12:00–00:00 |
 | [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/oCHN7N2ADtebVTKM9) | Hot Pot | RM 40-60 | ★★★★★ 4.6 | 13:00–22:30 |
 | [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cafe | RM 20-40 | ★★★★☆ 4.5 | Mon-Thu 11:00–22:00<br> Fri-Sun 10:30–22:00 |
 | [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Chinese | RM 1-20 | ★★★★☆ 4.5 |  |
@@ -102,7 +102,7 @@
 | [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | Restaurant | RM 20-40 | ★★★★☆ 4.1 | 11:00–23:00 |
 | [Shüü Cafe](https://maps.app.goo.gl/RFVsbjnjFCVBMDu47) | Cafe | RM 20-40 | ★★★★☆ 4.1 | Thu-Sun 10:00–18:00 |
 | [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 1-40 | ★★★★☆ 4.1 |  |
-| [HAVOC Hotpot](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Buffet | RM 40-60 | ★★★★☆ 4.0 |  |
+| [HAVOC Hotpot](https://maps.app.goo.gl/mSo3Lwhn3tc9AtwFA) | Buffet | RM 40-60 | ★★★★☆ 4.0 | 12:00–23:00 |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Restaurant | RM 1-20 | ★★★★☆ 3.9 | 17:30–02:00 |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Mandarin restaurant | RM 40-60 | ★★★★☆ 3.9 | 12:00–02:00 |
 | [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 20-100 | ★★★★☆ 3.9 |  |
@@ -120,7 +120,7 @@
 | [Restoran Arab Zaatar](https://maps.app.goo.gl/H4Txq32iZoJJZ8FTA) | Mix Grill Family Size |
 | [Der' Cabin Bistro Gelang Patah](https://maps.app.goo.gl/cXrNKvEJfj2vkJwE9) | Grilled Chiken Chop |
 | [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Eco Botanic |
-| [大吉利自助火锅烤肉](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [大吉利自助火锅烤肉](https://maps.app.goo.gl/ocahL5rgopWMG9bt9) | Hot pot |
 | [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/oCHN7N2ADtebVTKM9) | Bukit Indah |
 | [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cake, Cream pasta |
 | [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
@@ -133,7 +133,7 @@
 | [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | tofu, Ba Ku Teh |
 | [Shüü Cafe](https://maps.app.goo.gl/RFVsbjnjFCVBMDu47) | Strawberry Matcha |
 | [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
-| [HAVOC Hotpot](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [HAVOC Hotpot](https://maps.app.goo.gl/mSo3Lwhn3tc9AtwFA) | Hot pot |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Kuey Teow |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Pot Stickers, Spicy Chicken Wings |
 | [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Hunan cuisine |
