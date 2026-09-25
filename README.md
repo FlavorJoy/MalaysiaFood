@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **35** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-21 12:36:29 CST
+📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-25 15:17:01 CST
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
 
 | Metric | Value |
 | :--- | ---: |
-| 📝 Total restaurants | **35** |
-| ⭐ Average rating | **4.26** / 5.0 |
+| 📝 Total restaurants | **34** |
+| ⭐ Average rating | **4.27** / 5.0 |
 | 🔼 Highest rating | **4.9** / 5.0 |
 | 🔽 Lowest rating | **2.9** / 5.0 |
 
@@ -30,19 +30,19 @@
 
 | Region | Count | Share |
 | :--- | ---: | ---: |
-| Johor | 25 | 71.4% ██████████████░░░░░░ |
+| Johor | 24 | 70.6% ██████████████░░░░░░ |
 | KL | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Melaka | 9 | 25.7% █████░░░░░░░░░░░░░░░ |
+| Melaka | 9 | 26.5% █████░░░░░░░░░░░░░░░ |
 
 ### 🍽️ Cuisine Breakdown
 
 | Cuisine | Count | Share |
 | :--- | ---: | ---: |
-| Restaurant | 7 | 20.0% ████░░░░░░░░░░░░░░░░ |
-| Cafe | 4 | 11.4% ██░░░░░░░░░░░░░░░░░░ |
-| Chinese | 4 | 11.4% ██░░░░░░░░░░░░░░░░░░ |
-| Buffet | 2 | 5.7% █░░░░░░░░░░░░░░░░░░░ |
-| Asian | 2 | 5.7% █░░░░░░░░░░░░░░░░░░░ |
+| Restaurant | 6 | 17.6% ███░░░░░░░░░░░░░░░░░ |
+| Cafe | 4 | 11.8% ██░░░░░░░░░░░░░░░░░░ |
+| Chinese | 4 | 11.8% ██░░░░░░░░░░░░░░░░░░ |
+| Buffet | 2 | 5.9% █░░░░░░░░░░░░░░░░░░░ |
+| Asian | 2 | 5.9% █░░░░░░░░░░░░░░░░░░░ |
 | Shabu Shabu | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
 | Arabic dishes | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
 | Hot Pot | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
@@ -64,9 +64,9 @@
 
 | Price Range | Count | Share |
 | :--- | ---: | ---: |
-| Under ¥30 | 15 | 42.9% ████████░░░░░░░░░░░░ |
-| ¥30-60 | 18 | 51.4% ██████████░░░░░░░░░░ |
-| ¥60-100 | 2 | 5.7% █░░░░░░░░░░░░░░░░░░░ |
+| Under ¥30 | 14 | 41.2% ████████░░░░░░░░░░░░ |
+| ¥30-60 | 18 | 52.9% ██████████░░░░░░░░░░ |
+| ¥60-100 | 2 | 5.9% █░░░░░░░░░░░░░░░░░░░ |
 
 ### 🏆 Top Rated (Top 5)
 
@@ -101,7 +101,6 @@
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Mamak | RM 1-20 | ★★★★☆ 4.2 | 24H operation |
 | [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | Restaurant | RM 20-40 | ★★★★☆ 4.1 | 11:00–23:00 |
 | [Shüü Cafe](https://maps.app.goo.gl/RFVsbjnjFCVBMDu47) | Cafe | RM 20-40 | ★★★★☆ 4.1 | Thu-Sun 10:00–18:00 |
-| [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 1-40 | ★★★★☆ 4.1 |  |
 | [HAVOC Hotpot](https://maps.app.goo.gl/mSo3Lwhn3tc9AtwFA) | Buffet | RM 40-60 | ★★★★☆ 4.0 | 12:00–23:00 |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Restaurant | RM 1-20 | ★★★★☆ 3.9 | 17:30–02:00 |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Mandarin restaurant | RM 40-60 | ★★★★☆ 3.9 | 12:00–02:00 |
@@ -132,7 +131,6 @@
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Roti Kosong, Roti Telur,Megi Goreng |
 | [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | tofu, Ba Ku Teh |
 | [Shüü Cafe](https://maps.app.goo.gl/RFVsbjnjFCVBMDu47) | Strawberry Matcha |
-| [（SinHaiCheng）](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [HAVOC Hotpot](https://maps.app.goo.gl/mSo3Lwhn3tc9AtwFA) | Hot pot |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Kuey Teow |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Pot Stickers, Spicy Chicken Wings |
