@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-25 15:17:01 CST
+📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-26 16:30:56 CST
 
 ## 📑 Table of Contents
 
@@ -104,7 +104,7 @@
 | [HAVOC Hotpot](https://maps.app.goo.gl/mSo3Lwhn3tc9AtwFA) | Buffet | RM 40-60 | ★★★★☆ 4.0 | 12:00–23:00 |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Restaurant | RM 1-20 | ★★★★☆ 3.9 | 17:30–02:00 |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Mandarin restaurant | RM 40-60 | ★★★★☆ 3.9 | 12:00–02:00 |
-| [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Restaurant | RM 20-100 | ★★★★☆ 3.9 |  |
+| [中华风味湘菜馆](https://maps.app.goo.gl/6uEnQLjkJ8QJbGey7) | Restaurant | RM 20-100 | ★★★★☆ 3.9 | 10:00–23:00 |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Asian | RM 1-20 | ★★★★☆ 3.9 |  |
 | [Heng Park Garden Cafe](https://maps.app.goo.gl/hhuZxM8L8kj4FCZ88) | Asian | RM 1-20 | ★★★★☆ 3.8 | 07:00–00:00 |
 | [7773 Kopitiam](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Coffee shop | RM 1-20 | ★★★☆☆ 2.9 |  |
@@ -134,7 +134,7 @@
 | [HAVOC Hotpot](https://maps.app.goo.gl/mSo3Lwhn3tc9AtwFA) | Hot pot |
 | [Da Ma Kuey Teow Sutera](https://maps.app.goo.gl/xmnJtSWWWocBa5LU8) | Kuey Teow |
 | [BBQ Box (Mount Austin)](https://maps.app.goo.gl/5pe21psuXsX1X3b4A) | Pot Stickers, Spicy Chicken Wings |
-| [中华风味湘菜馆](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Hunan cuisine |
+| [中华风味湘菜馆](https://maps.app.goo.gl/6uEnQLjkJ8QJbGey7) | Hunan cuisine |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Heng Park Garden Cafe](https://maps.app.goo.gl/hhuZxM8L8kj4FCZ88) | — |
 | [7773 Kopitiam](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
