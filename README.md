@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-26 16:30:56 CST
+📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-27 15:28:01 CST
 
 ## 📑 Table of Contents
 
@@ -96,7 +96,7 @@
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | BBQ | RM 40-60 | ★★★★☆ 4.4 | 10:00-22:00 |
 | [阿华牛肉面 Ah Hua Beef noodles](https://maps.app.goo.gl/WbV8RYg739TsiKUa6) | Beef noodles | RM 20-40 | ★★★★☆ 4.4 | 08:00–21:00, Wednesday rest |
 | [火岩山擂茶 Volcano Thunder Tea](https://maps.app.goo.gl/T28BQ9q8Dao15WsTA) | Restaurant | RM 10-20 | ★★★★☆ 4.4 | 08:40–14:00, Wednesday rest |
-| [Zen+ Korean BBQ(JOHOR BAHRU)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Korean BBQ | RM 40-60 | ★★★★☆ 4.4 |  |
+| [Zen+ Korean BBQ(JOHOR BAHRU)](https://maps.app.goo.gl/kzw642wBVk8pnyveA) | Korean BBQ | RM 40-60 | ★★★★☆ 4.4 | 11:30–22:30 |
 | [Queen Bean House 皇后红豆冰](https://maps.app.goo.gl/kZBQKXDb3LHKDzYf9) | Dessert shop | RM 6-10 | ★★★★☆ 4.3 | 09:00–18:30, Tuesday rest |
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Mamak | RM 1-20 | ★★★★☆ 4.2 | 24H operation |
 | [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | Restaurant | RM 20-40 | ★★★★☆ 4.1 | 11:00–23:00 |
@@ -126,7 +126,7 @@
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | Kimchi soup |
 | [阿华牛肉面 Ah Hua Beef noodles](https://maps.app.goo.gl/WbV8RYg739TsiKUa6) | Beef noodles, 砂锅麻油鸡 |
 | [火岩山擂茶 Volcano Thunder Tea](https://maps.app.goo.gl/T28BQ9q8Dao15WsTA) | Thunder Tea |
-| [Zen+ Korean BBQ(JOHOR BAHRU)](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [Zen+ Korean BBQ(JOHOR BAHRU)](https://maps.app.goo.gl/kzw642wBVk8pnyveA) | — |
 | [Queen Bean House 皇后红豆冰](https://maps.app.goo.gl/kZBQKXDb3LHKDzYf9) | 红豆冰 |
 | [Restoran Al-Safa Iskandar Puteri](https://maps.app.goo.gl/fbhHDxUXvKXWk2m58) | Roti Kosong, Roti Telur,Megi Goreng |
 | [Dajia Yuen Restaurant](https://maps.app.goo.gl/F7n7PGN1ZS1AhEum7) | tofu, Ba Ku Teh |
