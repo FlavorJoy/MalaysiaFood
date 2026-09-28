@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-27 15:28:01 CST
+📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-28 19:59:51 CST
 
 ## 📑 Table of Contents
 
@@ -107,7 +107,7 @@
 | [中华风味湘菜馆](https://maps.app.goo.gl/6uEnQLjkJ8QJbGey7) | Restaurant | RM 20-100 | ★★★★☆ 3.9 | 10:00–23:00 |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Asian | RM 1-20 | ★★★★☆ 3.9 |  |
 | [Heng Park Garden Cafe](https://maps.app.goo.gl/hhuZxM8L8kj4FCZ88) | Asian | RM 1-20 | ★★★★☆ 3.8 | 07:00–00:00 |
-| [7773 Kopitiam](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Coffee shop | RM 1-20 | ★★★☆☆ 2.9 |  |
+| [7773 Kopitiam](https://maps.app.goo.gl/QQcfYewyQDLF16xK6) | Coffee shop | RM 1-20 | ★★★☆☆ 2.9 | 06:00–00:00, Monday rest |
 
 <details id="detail-johor">
 <summary>📖 Johor Area – Click to expand detailed information (Recommended dishes / Notes)</summary>
@@ -137,7 +137,7 @@
 | [中华风味湘菜馆](https://maps.app.goo.gl/6uEnQLjkJ8QJbGey7) | Hunan cuisine |
 | [Kopitiam Tong Nam DSY](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
 | [Heng Park Garden Cafe](https://maps.app.goo.gl/hhuZxM8L8kj4FCZ88) | — |
-| [7773 Kopitiam](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [7773 Kopitiam](https://maps.app.goo.gl/QQcfYewyQDLF16xK6) | — |
 
 </details>
 
