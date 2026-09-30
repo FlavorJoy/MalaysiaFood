@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-29 09:35:41 CST
+📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-30 10:36:42 CST
 
 ## 📑 Table of Contents
 
@@ -88,7 +88,7 @@
 | [Arashi Shabu-Shabu](https://maps.app.goo.gl/cRxrppF44oUgLg5v9?g_st=ic) | Shabu Shabu | RM 40-120 | ★★★★★ 4.9 | 11:00–22:00 |
 | [Restoran Arab Zaatar](https://maps.app.goo.gl/H4Txq32iZoJJZ8FTA) | Arabic dishes | RM 30-80 | ★★★★★ 4.8 | 10:00–01:00 |
 | [Der' Cabin Bistro Gelang Patah](https://maps.app.goo.gl/cXrNKvEJfj2vkJwE9) | Restaurant | RM 20-40 | ★★★★★ 4.8 | 17:00–23:30 |
-| [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Cafe | RM 20-40 | ★★★★★ 4.8 |  |
+| [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/GaB7AeJd5os7NmvY7) | Cafe | RM 20-40 | ★★★★★ 4.8 | 10:00–22:00 |
 | [大吉利自助火锅烤肉](https://maps.app.goo.gl/ocahL5rgopWMG9bt9) | Buffet | RM 40-60 | ★★★★★ 4.7 | 12:00–00:00 |
 | [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/oCHN7N2ADtebVTKM9) | Hot Pot | RM 40-60 | ★★★★★ 4.6 | 13:00–22:30 |
 | [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cafe | RM 20-40 | ★★★★☆ 4.5 | Mon-Thu 11:00–22:00<br> Fri-Sun 10:30–22:00 |
@@ -118,7 +118,7 @@
 | [Arashi Shabu-Shabu](https://maps.app.goo.gl/cRxrppF44oUgLg5v9?g_st=ic) | BBQ |
 | [Restoran Arab Zaatar](https://maps.app.goo.gl/H4Txq32iZoJJZ8FTA) | Mix Grill Family Size |
 | [Der' Cabin Bistro Gelang Patah](https://maps.app.goo.gl/cXrNKvEJfj2vkJwE9) | Grilled Chiken Chop |
-| [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Eco Botanic |
+| [Manzanita Pâtisserie & Boulangerie - Eco Botanic](https://maps.app.goo.gl/GaB7AeJd5os7NmvY7) | Eco Botanic |
 | [大吉利自助火锅烤肉](https://maps.app.goo.gl/ocahL5rgopWMG9bt9) | Hot pot |
 | [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/oCHN7N2ADtebVTKM9) | Bukit Indah |
 | [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cake, Cream pasta |
