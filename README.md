@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-09-30 10:36:42 CST
+📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-10-01 14:03:55 CST
 
 ## 📑 Table of Contents
 
@@ -145,14 +145,14 @@
 
 | Name | Cuisine | Price | Rating | Hours |
 | :--- | :--- | :---: | :---: | :--- |
-| [Village Park Restaurant](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Malaysian | RM 1-20 | ★★★★☆ 4.3 |  |
+| [Village Park Restaurant](https://maps.app.goo.gl/itSxiMfgrR23DFCk7) | Malaysian | RM 1-20 | ★★★★☆ 4.3 | 06:30–17:30 |
 
 <details id="detail-kl">
 <summary>📖 KL Area – Click to expand detailed information (Recommended dishes / Notes)</summary>
 
 | Name | Notes / Recommended Dishes |
 | :--- | :--- |
-| [Village Park Restaurant](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [Village Park Restaurant](https://maps.app.goo.gl/itSxiMfgrR23DFCk7) | — |
 
 </details>
 
