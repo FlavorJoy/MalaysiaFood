@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-10-01 14:03:55 CST
+📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-10-01 16:26:08 CST
 
 ## 📑 Table of Contents
 
@@ -38,27 +38,11 @@
 
 | Cuisine | Count | Share |
 | :--- | ---: | ---: |
-| Restaurant | 6 | 17.6% ███░░░░░░░░░░░░░░░░░ |
-| Cafe | 4 | 11.8% ██░░░░░░░░░░░░░░░░░░ |
-| Chinese | 4 | 11.8% ██░░░░░░░░░░░░░░░░░░ |
-| Buffet | 2 | 5.9% █░░░░░░░░░░░░░░░░░░░ |
-| Asian | 2 | 5.9% █░░░░░░░░░░░░░░░░░░░ |
-| Shabu Shabu | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Arabic dishes | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Hot Pot | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Satay restaurant | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| BBQ | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Beef noodles | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Korean BBQ | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Dessert shop | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Malaysian | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Thai | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Mamak | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Chinese Noodles | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Mandarin restaurant | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Nyonya restaurant | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Dessert | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
-| Coffee shop | 1 | 2.9% ░░░░░░░░░░░░░░░░░░░░ |
+| 🇲🇾 Malaysian | 4 | 11.8% ██░░░░░░░░░░░░░░░░░░ |
+| 🇨🇳 Chinese | 7 | 20.6% ████░░░░░░░░░░░░░░░░ |
+| 🇰🇷 Korean / Japanese | 2 | 5.9% █░░░░░░░░░░░░░░░░░░░ |
+| 🌏 Asian / Other Asian | 14 | 41.2% ████████░░░░░░░░░░░░ |
+| 🍰 Cafe / Dessert / Western | 7 | 20.6% ████░░░░░░░░░░░░░░░░ |
 
 ### 💰 Price Distribution
 

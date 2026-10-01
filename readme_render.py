@@ -93,14 +93,118 @@ def format_hours(hours: Optional[str]) -> str:
     return hours.strip().replace(";", "<br>")
 
 
+def simplify_cuisine(cuisine: str) -> str:
+    """Group cuisines into 6 main categories."""
+
+    cuisine = (cuisine or "").strip().lower()
+
+    # 🇲🇾 Malaysian
+    if any(word in cuisine for word in [
+        "malaysian",
+        "mamak",
+        "satay",
+        "nyonya",
+        "kopitiam"
+    ]):
+        return "🇲🇾 Malaysian"
+
+    # 🇨🇳 Chinese
+    if any(word in cuisine for word in [
+        "chinese",
+        "mandarin",
+        "cantonese",
+        "dim sum",
+        "dimsum",
+        "noodle",
+        "beef noodle"
+    ]):
+        return "🇨🇳 Chinese"
+
+    # 🇮🇳 Indian / Mamak
+    if any(word in cuisine for word in [
+        "indian",
+        "mamak",
+        "naan",
+        "curry"
+    ]):
+        return "🇮🇳 Indian / Mamak"
+
+    # 🇰🇷 Korean / Japanese
+    if any(word in cuisine for word in [
+        "korean",
+        "japanese",
+        "sushi",
+        "ramen",
+        "yakitori",
+        "korean bbq",
+        "japanese bbq",
+        "shabu",
+        "sukiyaki"
+    ]):
+        return "🇰🇷 Korean / Japanese"
+
+    # 🌏 Asian / Other Asian
+    if any(word in cuisine for word in [
+        "asian",
+        "thai",
+        "vietnamese",
+        "indonesian",
+        "singaporean",
+        "filipino",
+        "seafood",
+        "bbq",
+        "hot pot",
+        "buffet",
+        "restaurant"
+    ]):
+        return "🌏 Asian / Other Asian"
+
+    # 🍰 Cafe / Dessert / Western
+    if any(word in cuisine for word in [
+        "cafe",
+        "coffee",
+        "dessert",
+        "bakery",
+        "western",
+        "cake",
+        "patisserie",
+        "pastry",
+        "brunch",
+        "pizza",
+        "burger"
+    ]):
+        return "🍰 Cafe / Dessert / Western"
+
+    # Any unmatched cuisine goes into the 5th category.
+    return "🌏 Asian / Other Asian"
+
+
 def get_cuisine_stats(rows: List[Dict]) -> List[Tuple[str, int]]:
-    """Count restaurants per cuisine."""
+    """Count restaurants using the 6 main cuisine categories."""
+
     stats = defaultdict(int)
+
     for r in rows:
         cuisine = (r.get("cuisine") or "").strip()
+
         if cuisine:
-            stats[cuisine] += 1
-    return sorted(stats.items(), key=lambda x: x[1], reverse=True)
+            category = simplify_cuisine(cuisine)
+            stats[category] += 1
+
+    category_order = [
+        "🇲🇾 Malaysian",
+        "🇨🇳 Chinese",
+        "🇮🇳 Indian / Mamak",
+        "🇰🇷 Korean / Japanese",
+        "🌏 Asian / Other Asian",
+        "🍰 Cafe / Dessert / Western"
+    ]
+
+    return [
+        (category, stats[category])
+        for category in category_order
+        if stats[category] > 0
+    ]
 
 
 def get_top_rated(rows: List[Dict], limit: int = 5) -> List[Dict]:
@@ -421,3 +525,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
