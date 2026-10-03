@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-10-01 16:27:14 CST
+📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-10-03 12:32:51 CST
 
 ## 📑 Table of Contents
 
@@ -76,7 +76,7 @@
 | [大吉利自助火锅烤肉](https://maps.app.goo.gl/ocahL5rgopWMG9bt9) | Buffet | RM 40-60 | ★★★★★ 4.7 | 12:00–00:00 |
 | [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/oCHN7N2ADtebVTKM9) | Hot Pot | RM 40-60 | ★★★★★ 4.6 | 13:00–22:30 |
 | [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cafe | RM 20-40 | ★★★★☆ 4.5 | Mon-Thu 11:00–22:00<br> Fri-Sun 10:30–22:00 |
-| [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | Chinese | RM 1-20 | ★★★★☆ 4.5 |  |
+| [3+1实兆远福州卤面](https://maps.app.goo.gl/R1SxeyVBqgaaSs3Z6) | Chinese | RM 1-20 | ★★★★☆ 4.5 | 07:30–16:30, Wednesday rest |
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | BBQ | RM 40-60 | ★★★★☆ 4.4 | 10:00-22:00 |
 | [阿华牛肉面 Ah Hua Beef noodles](https://maps.app.goo.gl/WbV8RYg739TsiKUa6) | Beef noodles | RM 20-40 | ★★★★☆ 4.4 | 08:00–21:00, Wednesday rest |
 | [火岩山擂茶 Volcano Thunder Tea](https://maps.app.goo.gl/T28BQ9q8Dao15WsTA) | Restaurant | RM 10-20 | ★★★★☆ 4.4 | 08:40–14:00, Wednesday rest |
@@ -106,7 +106,7 @@
 | [大吉利自助火锅烤肉](https://maps.app.goo.gl/ocahL5rgopWMG9bt9) | Hot pot |
 | [Hot Pot Shabu Shabu Bukit Indah](https://maps.app.goo.gl/oCHN7N2ADtebVTKM9) | Bukit Indah |
 | [Meet House Cafe](https://maps.app.goo.gl/gWGn23FjYYMkiktV9) | Cake, Cream pasta |
-| [Restaurant Tau Fu](https://maps.app.goo.gl/eKFCvkJushcPfcF79) | — |
+| [3+1实兆远福州卤面](https://maps.app.goo.gl/R1SxeyVBqgaaSs3Z6) | — |
 | [RunningMan Korea Restaurant](https://maps.app.goo.gl/SLcFTksQKvBHkXvy6?g_st=ic) | Kimchi soup |
 | [阿华牛肉面 Ah Hua Beef noodles](https://maps.app.goo.gl/WbV8RYg739TsiKUa6) | Beef noodles, 砂锅麻油鸡 |
 | [火岩山擂茶 Volcano Thunder Tea](https://maps.app.goo.gl/T28BQ9q8Dao15WsTA) | Thunder Tea |
