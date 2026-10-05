@@ -4,7 +4,7 @@
 
 > ✏️ To add or edit a restaurant, update `food-original.csv` and submit a Pull Request
 
-📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-10-03 12:32:51 CST
+📊 **34** restaurants in the guide ｜ 🕒 Updated at Kuala Lumpur time: 2026-10-05 10:08:19 CST
 
 ## 📑 Table of Contents
 
@@ -145,8 +145,8 @@
 | Name | Cuisine | Price | Rating | Hours |
 | :--- | :--- | :---: | :---: | :--- |
 | [McQuek's Satay Celup](https://maps.app.goo.gl/vM3s47EguZwixKCQ8) | Satay restaurant | RM 20-40 | ★★★★☆ 4.5 | 16:00–23:00, Wednesday rest |
-| [Kubu Yong Tau Foo Kopitiam](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Chinese | RM 1-20 | ★★★★☆ 4.5 |  |
-| [一日山品 Something Bakery @ Bukit Cina](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Cafe | RM 20-40 | ★★★★☆ 4.4 |  |
+| [Kubu Yong Tau Foo Kopitiam](https://maps.app.goo.gl/4JTY5XPM4PwWXpC87) | Chinese | RM 1-20 | ★★★★☆ 4.5 | 08:00–11:30, Monday rest |
+| [一日山品 Something Bakery @ Bukit Cina](https://maps.app.goo.gl/mLapMscA7ngdDmLL9) | Cafe | RM 20-40 | ★★★★☆ 4.4 | 11:00–22:00 |
 | [Restoran Thai Xiang](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Thai | RM 1-20 | ★★★★☆ 4.3 |  |
 | [Restaurant Lee Swee Meng](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Chinese | RM 20-40 | ★★★★☆ 4.2 |  |
 | [Oriental Cafe](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Chinese Noodles | RM 1-20 | ★★★★☆ 4.1 |  |
@@ -160,8 +160,8 @@
 | Name | Notes / Recommended Dishes |
 | :--- | :--- |
 | [McQuek's Satay Celup](https://maps.app.goo.gl/vM3s47EguZwixKCQ8) | Satay |
-| [Kubu Yong Tau Foo Kopitiam](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Yong Tau Foo |
-| [一日山品 Something Bakery @ Bukit Cina](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | Bukit Cina |
+| [Kubu Yong Tau Foo Kopitiam](https://maps.app.goo.gl/4JTY5XPM4PwWXpC87) | Yong Tau Foo |
+| [一日山品 Something Bakery @ Bukit Cina](https://maps.app.goo.gl/mLapMscA7ngdDmLL9) | Bukit Cina |
 | [Restoran Thai Xiang](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | — |
 | [Restaurant Lee Swee Meng](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | — |
 | [Oriental Cafe](https://maps.app.goo.gl/DWPBnDWwiEDBwT8cA) | — |
